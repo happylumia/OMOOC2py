@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
-   * 配置disqus问题
+   * [配置disqus问题](0MOOC/disqus.md/pei_zhi_disqus_wen_ti.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
