@@ -3,9 +3,7 @@
     "version": "15.9.18,2020",
     "description": "OMOOC.py tutorial for teching",
     "author": "happylumia <jianghongxi001@gmail.com>",
-    "plugins": [
-        "disqus"
-    ],
+    "plugins": ["disqus"],
     "pluginsConfig": {
         "shortName": "happylumia"
     }
