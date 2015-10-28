@@ -1,0 +1,12 @@
+#-*- coding: utf-8 -*-
+from sys import argv '''从sys库中相对导入argv函数'''
+script, filename = argv ''' 使用argv获取文件名称'''
+txt = open(filename) '''打开文件'''
+print "Here's your file %r:" % filename '''在屏幕输出文件名称'''
+print txt.read() '''打印文件内容'''
+txt.close() '''关闭文件'''
+print  "Type the filename again:" '''提示再次输入文件名称'''
+file_again = raw_input(">") '''读取输入的文件名'''
+txt_again = open(file_again) '''打开再次输入的文件'''
+print txt_again.read() '''在屏幕显示再次打开的文件'''
+txt_again.close() '''关闭文件'''
