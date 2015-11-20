@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
    * 6w5d
-   * 6w5d
 * [教学反转](0MOOC/README.md)
 * [配置disqus问题](0MOOC/disqus.md/pei_zhi_disqus_wen_ti.md)
 * [基础旋进](1sTry/README.md)
