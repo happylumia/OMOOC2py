@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [WeeklyNotes](WeeklyNotes/ReadME,md)
+* [WeeklyNotes](WeeklyNotes/README.md)
    * [5Wd3](note/6w3d/README.md)
 * [教学反转](0MOOC/README.md)
 * [配置disqus问题](0MOOC/disqus.md/pei_zhi_disqus_wen_ti.md)
