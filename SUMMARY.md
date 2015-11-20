@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* WeeklyNotes
 * [教学反转](0MOOC/README.md)
 * [配置disqus问题](0MOOC/disqus.md/pei_zhi_disqus_wen_ti.md)
 * [基础旋进](1sTry/README.md)
@@ -10,5 +11,4 @@
 * [素材 (draft)](draft/README.md)
    * [教程该怎么写](draft/how2tutorial.md)
 * [有关](ABOUT.md)
-* WeeklyNotes
 
